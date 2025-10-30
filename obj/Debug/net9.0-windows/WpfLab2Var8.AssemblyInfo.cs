@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfLab2Var8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7a4c58f1c4e1847fa163e201394292f5d6cf276")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfLab2Var8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfLab2Var8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
